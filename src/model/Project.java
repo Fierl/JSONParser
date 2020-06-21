@@ -12,7 +12,7 @@ public class Project extends AbstractProjectEntity{
 	private String key;
 	private String assigneeType;
 	private String projectTypeKey;
-	boolean archived;
+	private boolean archived;
 	private User lead;
 	private Roles roles;
 	private AvatarUrl avatarUrls;

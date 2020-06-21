@@ -1,10 +1,11 @@
 package model;
 
+/** * The AvatarUrl class serves as the model of the user*/
 public class AvatarUrl {
-	String _16x16;
-	String _24x24;
-	String _36x36;
-	String _48x48;
+	private String _16x16;
+	private String _24x24;
+	private String _36x36;
+	private String _48x48;
 	
 	public AvatarUrl(String _16x16, String _24x24, String _36x36, String _48x48) {
 		this._16x16 = _16x16;
