@@ -1,0 +1,20 @@
+{
+    "expand": "description,lead,url,projectKeys",
+    "self": "https://projectmanagement-system.de/rest/api/latest/project/10602",
+    "id": "10602",
+    "key": "MP",
+    "description": "",
+    "lead": {
+        "self": "https://projectmanagement-system.de/rest/api/2/user?username=mmustermann",
+        "key": "mmustermann",
+        "name": "mmustermann",
+        "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/1f417b0cbb64e626f6cd3af87e33f650?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/1f417b0cbb64e626f6cd3af87e33f650?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/1f417b0cbb64e626f6cd3af87e33f650?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/1f417b0cbb64e626f6cd3af87e33f650?d=mm&s=32"
+        },
+        "displayName": "Max Mustermann",
+        "active": true
+    }
+}
